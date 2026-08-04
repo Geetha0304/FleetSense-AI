@@ -103,6 +103,13 @@ streamlit run app.py
 
 ---
 
+## Live Demo
+
+Streamlit App:
+https://geetha0304-fleetsense-ai-streamlit-app-evpfcf.streamlit.app/
+
+---
+
 ## 👩‍💻 Author
 
 **Geetha Bhavani Betha**
