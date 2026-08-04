@@ -82,15 +82,16 @@ streamlit run app.py
 
 ### 🏠 Home Page
 
-![Home](screenshots/home.png)
+![Home](Screenshots/Home page.png)
 
 ### ❌ Engine Failure Prediction
 
-![Failure Prediction](screenshots/prediction_failure.png)
+![Failure Prediction](Screenshots/Prediction failure.png)
 
 ### ✅ No Engine Failure Prediction
 
-![No Failure Prediction](screenshots/prediction_no_failure.png)
+![No Failure Prediction](Screenshots/Prediction no failure.png)
+
 ---
 
 ## 🔮 Future Enhancements
